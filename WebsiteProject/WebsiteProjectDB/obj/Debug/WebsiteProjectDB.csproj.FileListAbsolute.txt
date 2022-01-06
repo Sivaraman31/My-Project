@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\Git\Trainig Samples\WebsiteProject\WebsiteProjectDB\bin\Debug\WebsiteProjectDB.dll
+C:\inetpub\wwwroot\Git\Trainig Samples\WebsiteProject\WebsiteProjectDB\bin\Debug\WebsiteProjectDB.pdb
+C:\inetpub\wwwroot\Git\Trainig Samples\WebsiteProject\WebsiteProjectDB\obj\Debug\WebsiteProjectDB.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\Git\Trainig Samples\WebsiteProject\WebsiteProjectDB\obj\Debug\WebsiteProjectDB.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\Git\Trainig Samples\WebsiteProject\WebsiteProjectDB\obj\Debug\WebsiteProjectDB.dll
+C:\inetpub\wwwroot\Git\Trainig Samples\WebsiteProject\WebsiteProjectDB\obj\Debug\WebsiteProjectDB.pdb
